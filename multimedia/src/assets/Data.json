@@ -1,0 +1,9 @@
+{
+    "products":[{
+        "name":"trousers",
+        "brand":"H&M"
+    },{
+        "name":"shirts",
+        "brand":"trends"
+    }]
+}
